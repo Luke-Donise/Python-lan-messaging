@@ -29,7 +29,9 @@ Quick Start
 bash
 # Download the server script
 git clone https://github.com/Luke-Donise/Python-lan-messaging
-cd python-messaging
+
+cd 
+Python-lan-messaging
 
 # Create log file
 touch log.txt
