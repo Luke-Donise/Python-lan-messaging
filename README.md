@@ -9,7 +9,7 @@ Features
 
 Dual Client Options: Choose between terminal interface (clientside.py) or graphical interface (clientside-gui.py)
 
-Zero External Dependencies: Built with Python standard library only
+Zero External Dependencies: Built from the ground up with Python standard library only
 
 Simple Setup: Minimal configuration required
 
