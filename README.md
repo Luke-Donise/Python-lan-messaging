@@ -28,7 +28,7 @@ Quick Start
 1. Server Setup
 bash
 # Download the server script
-git clone https://github.com/lukeduck321/python-messaging
+git clone https://github.com/Luke-Donise/Python-lan-messaging
 cd python-messaging
 
 # Create log file
